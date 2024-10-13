@@ -1,0 +1,21 @@
+{
+  "short_name": "HospitalRun",
+  "name": "Hospital Management System",
+  "icons": [
+    {
+      "src": "hospital-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "hospital-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "description": "A hospital management system that helps manage patients, staff, and medical resources."
+}
